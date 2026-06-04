@@ -2,6 +2,18 @@
 
 This repository contains my submission for the DecodeLabs IoT Internship Program.
 
+## Project Selection Rationale
+
+For this internship submission, I selected Tasks 3, 4, and 5 because they collectively demonstrate the complete workflow of an IoT system.
+
+Rather than developing three unrelated projects, I implemented an Industrial Safety Monitoring System and used it to showcase different aspects of IoT development:
+
+* **Task 3:** Real-time monitoring and visualization of sensor data through a web dashboard.
+* **Task 4:** Automation logic and decision-making based on sensor thresholds.
+* **Task 5:** Integration of sensors, ESP32, dashboard, alerts, and actuators into a complete IoT solution.
+
+This approach demonstrates data acquisition, monitoring, automation, and real-world problem solving within a single industrial application.
+
 ## 📂 Task Navigation
 
 ### 📊 Task 3 – IoT Data Monitoring Dashboard
