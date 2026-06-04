@@ -4,28 +4,28 @@ This repository contains my submission for the DecodeLabs IoT Internship Program
 
 ## Completed Tasks
 
-### Task 3 – IoT Data Monitoring Dashboard
+### 📊 Task 3 – IoT Data Monitoring Dashboard
 
-Developed a web-based dashboard for monitoring environmental parameters such as temperature, humidity, gas concentration, and flame detection.
+Real-time dashboard for monitoring industrial environmental parameters.
 
-### Task 4 – IoT Automation Logic
+### ⚙️ Task 4 – IoT Automation Logic
 
-Implemented automation rules that trigger alerts and safety actions when abnormal conditions are detected.
+Implementation of automation rules based on sensor thresholds.
 
-### Task 5 – IoT Mini Project
+### 🚀 Task 5 – Industrial Safety Monitoring System
 
-Designed and developed an Industrial Safety Monitoring System using ESP32, DHT11, MQ-2 Gas Sensor, Flame Sensor, Relay, Buzzer, and Web Dashboard.
+Complete IoT-based Industrial Safety Monitoring System using ESP32.
 
 ## Technologies Used
 
 * ESP32
 * Embedded C++
-* HTML/CSS/JavaScript
+* HTML
+* CSS
+* JavaScript
 * IoT
 * Wi-Fi Communication
-* Sensor Interfacing
 
 ## Author
 
 Jay Jain
-
