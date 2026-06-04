@@ -17,5 +17,6 @@ To create a web-based dashboard for monitoring industrial sensor data.
 The dashboard displays live environmental data and safety alerts using a web interface.
 
 ## Dashboard
-<img width="1900" height="734" alt="Screenshot 2025-10-14 184134" src="https://github.com/user-attachments/assets/b16a14a4-6cd7-4eb3-ae3b-579582210d59" />
+<img width="1913" height="550" alt="image" src="https://github.com/user-attachments/assets/868bdb76-b6a5-4381-bfa8-dd4108963273" />
+
 
