@@ -36,4 +36,9 @@ Sensors → ESP32 → Dashboard → Alert System
 
 ## Results
 
-Successfully monitored environmental conditions and automatically responded to unsafe situations.
+- Successfully monitored temperature and humidity
+- Detected gas leakage conditions
+- Detected flame/fire conditions
+- Activated fan automatically
+- Triggered buzzer alerts
+- Displayed live data on web dashboard
