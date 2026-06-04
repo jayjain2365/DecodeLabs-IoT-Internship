@@ -1,0 +1,24 @@
+# Task 3 – IoT Data Monitoring Dashboard
+
+## Objective
+
+To create a dashboard for real-time monitoring of industrial environmental parameters.
+
+## Features
+
+* Temperature Monitoring
+* Humidity Monitoring
+* Gas Level Monitoring
+* Alert Display
+* Real-Time Updates
+
+## Dashboard Parameters
+
+* Temperature (°C)
+* Humidity (%)
+* Gas Sensor Reading
+* Alert Status
+
+## Output
+
+The dashboard displays live sensor values and alerts users when abnormal conditions are detected.
